@@ -175,9 +175,12 @@ while True:
 
 3. Berikut merupakan hasil Outputnya
 
-<img width="499" alt="foto 2" src="https://user-images.githubusercontent.com/115473988/206904585-2b21e16d-1d60-4167-8c94-ade521c4ee77.png">
-<img width="456" alt="foto 3" src="https://user-images.githubusercontent.com/115473988/206904588-84661a6c-816a-4b72-98f5-4714ef2b80a3.png">
-<img width="470" alt="foto 4" src="https://user-images.githubusercontent.com/115473988/206904591-eee97b5d-2bde-4950-b402-5c52f80cf9a1.png">
+![Praktikum8 1](https://user-images.githubusercontent.com/123864099/217856159-0c3d5e4b-e740-4b49-8980-62bc1412a5e6.PNG)
+
+![Praktikum8 2](https://user-images.githubusercontent.com/123864099/217856218-aaa1df00-bcf5-4e71-ae5f-6c8efc616309.PNG)
+
+![Praktikum8 3](https://user-images.githubusercontent.com/123864099/217856280-3249f624-20b3-4da9-901c-7c27c96dbf40.PNG)
+
 
 ## TERIMA KASIH
 ### ADITYA ACHYA ANANTA NUR - 312210714 - TI.22.C. - TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA
