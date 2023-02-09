@@ -7,7 +7,7 @@ Nim     :   312210714
 
 Kelas   :   TI.22.C.9
 
-# Praktikum8
+# Tugas Praktikum
 
 Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah
 class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
